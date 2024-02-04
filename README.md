@@ -15,3 +15,20 @@ Our project is structured to achieve simplicity and modularity. Key components i
 <br>
 **Client**: Java Swing-based client application.<br>
 **Server**: Server program for managing communication with the client using Socket IO.<br>
+<br>
+###Getting Started
+**1. Clone the Repository:**
+git clone https://github.com/your-username/java-chat-application.git <br>
+cd java-chat-application<br>
+
+**2. Compile and Run the Server:**
+cd server<br>
+javac Server.java<br>
+java Server<br>
+
+**3. Compile and Run the Client:**
+cd client<br>
+javac Client.java<br>
+java Client<br>
+
+And now you can easily run it on your machine!
