@@ -18,7 +18,7 @@ Our project is structured to achieve simplicity and modularity. Key components i
 <br>
 
 ### Getting Started
-**1. Clone the Repository:**
+**1. Clone the Repository:**<br>
 git clone https://github.com/your-username/java-chat-application.git <br>
 cd java-chat-application<br>
 
